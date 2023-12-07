@@ -6,4 +6,8 @@
 
 ## 1.1.1
 
-= Fix the files
+- Fix the files
+
+## 1.1.2
+
+- Update Some mods
