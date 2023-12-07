@@ -11,3 +11,8 @@
 ## 1.1.2
 
 - Update Some mods
+
+## 1.1.4
+
+- Added FlipMods-LetMeLookDown
+- Added Renegades-FlashlightToggle
