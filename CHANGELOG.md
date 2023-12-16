@@ -16,3 +16,12 @@
 
 - Added FlipMods-LetMeLookDown
 - Added Renegades-FlashlightToggle
+
+## 1.1.5
+
+- Updated mods
+- Removed LethalCreatures for Protogens
+
+## 1.1.6
+
+- Updates and changes to the pack

@@ -1,20 +1,29 @@
 {
     "name": "CreatureCompany",
     "description": "Lethal Company modpack for me and my friends.",
-    "version_number": "1.1.4",
+    "version_number": "1.1.6",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-        "DarnHyena-LethalCreature-1.3.1",
 	"tinyhoot-ShipLoot-1.0.0",
-	"Renegades-WalkieUse-1.2.3",
-	"femboytv-BoykisserPosters-1.1.1",
-	"anormaltwig-LateCompany-1.0.4",
+	"Renegades-WalkieUse-1.3.1",
+	"femboytv-BoykisserPosters-1.2.1",
+	"anormaltwig-LateCompany-1.0.6",
 	"Suskitech-AlwaysHearActiveWalkies-1.4.2",
-	"anormaltwig-TerminalExtras-1.0.0",
-	"bizzlemip-BiggerLobby-2.4.0",
-	"2018-LC_API-2.1.1",
+	"anormaltwig-TerminalExtras-1.0.1",
+	"2018-LC_API-2.2.0",
 	"FlipMods-LetMeLookDown-1.0.1",
-	"Renegades-FlashlightToggle-1.3.1"
+	"Renegades-FlashlightToggle-1.4.1",
+	"ScottyFoxArt-CompanyIssuedProtogen-1.0.0",
+	"bizzlemip-BiggerLobby-2.6.0",
+	"AriDev-JesterFree-2.0.0",
+	"Stoneman-LethalProgression-1.3.2",
+	"Sligili-More_Emotes-1.2.1",
+	"x753-Mimics-2.2.0",
+	"sunnobunno-YippeeMod-1.2.2",
+	"matsuura-HealthMetrics-1.0.2",
+	"steven4547466-YoutubeBoombox-1.5.0"
+
+	
     ],
     "website_url": "https://github.com/RaithSphere/CreatureCompany"
 }
