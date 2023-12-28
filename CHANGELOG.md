@@ -25,3 +25,7 @@
 ## 1.1.6
 
 - Updates and changes to the pack
+
+## 1.1.7
+
+- Fully change the mod list
