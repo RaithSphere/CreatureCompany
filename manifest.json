@@ -1,7 +1,7 @@
 {
     "name": "CreatureCompany",
     "description": "Lethal Company modpack for me and my friends.",
-    "version_number": "1.1.6",
+    "version_number": "1.1.7",
     "dependencies": [
 	"BepInEx-BepInExPack-5.4.2100",
 	"no00ob-LCSoundTool-1.4.0",
