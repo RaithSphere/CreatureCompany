@@ -37,3 +37,6 @@
 - Jamil-Corporate_Restructure-1.0.5
 - Ceelery-Kast-1.0.3
 - scoopy-Scoopys_Variety_Mod-0.5.1
+
+## 1.1.9
+- Update mods
